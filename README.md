@@ -88,11 +88,13 @@ void push_button()
 
 
 ## Output  :
-![Screenshot 2024-08-29 192756](https://github.com/user-attachments/assets/9d525dca-52c2-4325-af64-bcbede1db499)
+![Screenshot 2024-08-29 201051](https://github.com/user-attachments/assets/9e5499b0-d3b8-4f68-952c-4c579562040b)
+
 
  
 ## layout of the circuit 
-![Screenshot 2024-08-29 192830](https://github.com/user-attachments/assets/d0d736aa-e972-4c26-aa8e-a74337cd265b)
+![Screenshot 2024-08-29 201514](https://github.com/user-attachments/assets/610d7e99-8114-49b2-a247-973009e9e57a)
+
 
  
  
